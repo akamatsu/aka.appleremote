@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = 5B7B50D409C21809009158D3 /* AppleRemote */;
+		activeTarget = 8D1107260486CEB800E47090 /* AppleRemote */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AppleRemote */,
+		);
+		breakpoints = (
+		);
+		breakpointsGroup = 5BF9B5CD09C21F0D00EFA68D /* XCBreakpointsBucket */;
+		codeSenseManager = 5B7B50E409C2180D009158D3 /* Code sense */;
+		executables = (
+			5B7B50D409C21809009158D3 /* AppleRemote */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					281,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					535,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 164225418;
+			PBXWorkspaceStateSaveDate = 164225418;
+		};
+		sourceControlManager = 5B7B50E309C2180D009158D3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5B7B50D409C21809009158D3 /* AppleRemote */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AppleRemote;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	5B7B50E309C2180D009158D3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	5B7B50E409C2180D009158D3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5BF9B5CD09C21F0D00EFA68D /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	5BF9B75609C243FD00EFA68D /* AppleRemote.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1073, 1176}}";
+			sepNavSelRange = "{80, 55}";
+			sepNavVisRect = "{{0, 0}, {1073, 859}}";
+			sepNavWindowFrame = "{{164, 79}, {1112, 988}}";
+		};
+	};
+	5BF9B75709C243FD00EFA68D /* AppleRemote.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1001, 6076}}";
+			sepNavSelRange = "{2022, 0}";
+			sepNavVisRect = "{{0, 1176}, {1001, 379}}";
+			sepNavWindowFrame = "{{54, 80}, {1112, 988}}";
+		};
+	};
+	5BF9B9D609C9B00900EFA68D /* MainController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1073, 859}}";
+			sepNavSelRange = "{290, 12}";
+			sepNavVisRect = "{{0, 0}, {1073, 859}}";
+			sepNavWindowFrame = "{{356, 190}, {1112, 988}}";
+		};
+	};
+	5BF9B9D709C9B00900EFA68D /* MainController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1073, 1036}}";
+			sepNavSelRange = "{40, 101}";
+			sepNavVisRect = "{{0, 0}, {1073, 859}}";
+			sepNavWindowFrame = "{{356, 190}, {1112, 988}}";
+		};
+	};
+	5BF9BA7F09C9BA2200EFA68D /* RemoteFeedbackView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1073, 859}}";
+			sepNavSelRange = "{49, 0}";
+			sepNavVisRect = "{{0, 0}, {1073, 859}}";
+			sepNavWindowFrame = "{{130, 80}, {1112, 988}}";
+		};
+	};
+	5BF9BA8009C9BA2200EFA68D /* RemoteFeedbackView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1073, 1736}}";
+			sepNavSelRange = "{606, 0}";
+			sepNavVisRect = "{{0, 0}, {1073, 859}}";
+			sepNavWindowFrame = "{{130, 80}, {1112, 988}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* AppleRemote */ = {
+		activeExec = 0;
+		executables = (
+			5B7B50D409C21809009158D3 /* AppleRemote */,
+		);
+	};
+}
